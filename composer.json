@@ -1,8 +1,12 @@
 {
-  "name": "clientapi/armtek-rest-client",
-  "description": "Armtek HTTP клиент для работы с веб-сервисами (JSON или XML)",
+  "name": "ginkida/armtek-rest-client",
+  "description": "Armtek HTTP клиент для работы с веб-сервисами (JSON или XML) для PHP 8",
   "minimum-stability": "stable",
-  "keywords": ["armtek", "rest", "api"],
+  "keywords": [
+    "armtek",
+    "rest",
+    "api"
+  ],
   "license": "GPL-3.0",
   "authors": [
     {
